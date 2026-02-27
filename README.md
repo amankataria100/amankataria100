@@ -38,5 +38,5 @@
 ---
 
 ## 📫 Connect With Me
-🔗 LinkedIn: https://linkedin.com/in/aman-kataria  
+🔗 LinkedIn: [https://linkedin.com/in/aman-kataria](https://in.linkedin.com/in/aman-kataria-7a8405257)  
 💻 GitHub: https://github.com/amankataria100
