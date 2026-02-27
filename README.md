@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Aman Kataria 👋
 
-<!--
-**amankataria100/amankataria100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer building production-grade LLM & RAG systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Do
+- Design scalable LLM architectures
+- Build Retrieval-Augmented Generation (RAG) pipelines
+- Develop multi-agent AI systems (CrewAI, AutoGen)
+- Optimize inference latency & training efficiency
+- Deploy AI APIs using FastAPI & Docker
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python, SQL  
+**ML:** PyTorch, Hugging Face, Scikit-Learn  
+**GenAI:** RAG, LoRA/QLoRA, FAISS, Prompt Engineering  
+**Deployment:** FastAPI, Docker  
+**Data Tools:** Power BI, Tableau  
+
+---
+
+## 🔬 Highlight Projects
+
+### 🏥 Federated Learning Healthcare Platform
+- Privacy-preserving federated architecture
+- Hybrid RAG workflows
+- 45% faster training optimization
+- Edge inference improvement (3.2x)
+
+### ⚖️ LegalVoice.ai
+- Multilingual speech-to-text (8 languages)
+- Agentic document workflows
+- 73% reduction in processing latency
+
+---
+
+## 📫 Connect With Me
+🔗 LinkedIn: https://linkedin.com/in/aman-kataria  
+💻 GitHub: https://github.com/amankataria100
